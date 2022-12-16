@@ -1,4 +1,4 @@
-# Arch Linux basic command - pacman
+# Arch Linux basic commands - pacman
 ## Search in database for a specific package
 ```bash
 pacman -Ss <package_name>
