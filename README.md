@@ -28,3 +28,13 @@ sudo pacman -Syyu
 ```bash
 sudo pacman -R <package_name>
 ```
+
+## Search for a specific package on you computer or installed
+```bash
+pacman -Qi <package name>
+```
+
+## Show all installed packages
+```bash
+pacman -Q
+```
